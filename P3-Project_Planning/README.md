@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-All wireframe located in wireframes.pdf
+All wireframes located in wireframes.pdf
 
 ### Project Tracker
 
